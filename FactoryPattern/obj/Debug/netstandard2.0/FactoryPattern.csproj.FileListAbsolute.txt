@@ -1,0 +1,9 @@
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\bin\Debug\netstandard2.0\FactoryPattern.deps.json
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\bin\Debug\netstandard2.0\FactoryPattern.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\bin\Debug\netstandard2.0\FactoryPattern.pdb
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netstandard2.0\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netstandard2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netstandard2.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netstandard2.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netstandard2.0\FactoryPattern.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netstandard2.0\FactoryPattern.pdb

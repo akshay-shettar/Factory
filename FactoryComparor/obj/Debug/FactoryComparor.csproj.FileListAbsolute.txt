@@ -1,0 +1,6 @@
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryComparor\bin\Debug\FactoryComparor.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryComparor\bin\Debug\FactoryComparor.pdb
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryComparor\obj\Debug\FactoryComparor.csprojAssemblyReference.cache
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryComparor\obj\Debug\FactoryComparor.csproj.CoreCompileInputs.cache
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryComparor\obj\Debug\FactoryComparor.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryComparor\obj\Debug\FactoryComparor.pdb

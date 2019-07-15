@@ -1,0 +1,16 @@
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\FactoryTest.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\FactoryTest.pdb
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\FactoryComparor.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\FactoryComparor.pdb
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\obj\Debug\FactoryTest.csprojAssemblyReference.cache
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\obj\Debug\FactoryTest.csproj.CoreCompileInputs.cache
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\obj\Debug\FactoryTest.csproj.CopyComplete
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\obj\Debug\FactoryTest.dll
+C:\Users\a.shettar\source\repos\FactoryPattern\FactoryTest\obj\Debug\FactoryTest.pdb
